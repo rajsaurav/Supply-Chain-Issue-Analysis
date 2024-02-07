@@ -41,4 +41,9 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 - Taking feedback from customers to understand the challenges
 
-- Tailor city-specific strategy to increase and meet the order demands 
+- Tailor city-specific strategy to increase and meet the order demands
+
+
+# Links
+
+Link to Interactive Dashboard - https://www.novypro.com/project/insights-for-supply-chain-issue-in-fmcg-domain
