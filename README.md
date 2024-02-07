@@ -35,7 +35,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 - There is demand for Butter but the orders shipped in full quantity is extremely less 
 
-- Focus on to increase dairy products as the demand for this is twice as compared to other products 
+- Focus to increase dairy products as the demand for these products is twice as compared to other products 
 
 - A real-time monitoring system to keep track of all the important key metrics and fast resolution
 
