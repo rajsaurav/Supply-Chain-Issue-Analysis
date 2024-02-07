@@ -23,3 +23,26 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ![Product Insights](https://github.com/rajsaurav/Supply-Chain-Issue-Analysis/assets/35574674/d9ce4ae8-99ce-4834-9b4e-d4e6c040c956)
 
 
+# Insights and Recommendations
+
+.The highest product orders come from Ahmedabad.
+
+.Milk is the most ordered product followed by Curd and Butter
+
+.Milk also has the most delay in deliveries as the demand is high for the product
+
+.All the key metrics like IF%, OT%, OTIF% are way behind their targets
+
+.There is demand for Butter but the orders shipped in full quantity is extremely less 
+
+.Focus on to increase dairy products as the demand for this is twice as compared to other products 
+
+.A real-time monitoring system to keep track of all the important key metrics and fast resolution
+
+.Taking feedback from customers to understand the challenges
+
+.Tailor city-specific strategy to increase and meet the order demands 
+
+
+
+
