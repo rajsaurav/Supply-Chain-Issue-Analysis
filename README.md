@@ -46,4 +46,4 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 # Links
 
-Link to Interactive Dashboard - https://www.novypro.com/project/insights-for-supply-chain-issue-in-fmcg-domain
+Link to Interactive Dashboard -[Link](https://www.novypro.com/project/insights-for-supply-chain-issue-in-fmcg-domain)
